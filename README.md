@@ -1,2 +1,2 @@
-# demo-git
-Git demo
+# Introduce-to-Python-and-ML
+This repository is created in the spirit of paying it forward—a place I organize and store all the materials related to my course, including lecture slides, completed assignments, and study notes. The content is carefully arranged by week to reflect the structure of the course and to make it easier for others to follow along. Beyond being a personal archive, this platform is also where I share my insights, reflections, and experiences throughout the learning process. I hope it becomes a helpful resource for anyone interested in the subject. I would like to express my sincere gratitude to the HCMUT EE Machine Learning & IoT Lab for their invaluable support and inspiration.
