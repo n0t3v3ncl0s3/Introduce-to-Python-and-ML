@@ -1,8 +1,8 @@
-# 🚀 HCMUT EE Machine Learning & IoT Learning Hub 🌐
+# 🚀 HCMUT EE Machine Learning & IoT Learning Lab 🌐
 
 ## 📝 Overview
 
-This repository is a personal archive of every lecture slide, assignment, project, and study note I completed during the Machine Learning & IoT course at HCMUT. It exists purely as a storage and reference hub—feel free to explore, but note that it’s not an official course site or distribution channel.
+This repository is a personal archive of every lecture slide, assignment, project, and study note I completed during the Machine Learning & IoT course at HCMUT. It exists purely as a storage and reference lab—feel free to explore, but note that it’s not an official course site or distribution channel.
 
 ---
 
@@ -37,7 +37,7 @@ This repository is a personal archive of every lecture slide, assignment, projec
 
 ## 🤝 Contributions & Extensions
 
-While this hub reflects my own work, community feedback is welcome! Feel free to:
+While this lab reflects my own work, community feedback is welcome! Feel free to:
 
 - Submit pull requests with corrections or enhancements  
 - Share related resources in issues or discussions  
